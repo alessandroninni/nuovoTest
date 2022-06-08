@@ -12,7 +12,7 @@ public class Esercizio1 {
        int length = parola.length();
        int lunghezza;
        lunghezza = parola.length();
-      double metà= lunghezza/2;
+      double metà= lunghezza/5;
         
         if (lunghezza<2)
         	return true;
